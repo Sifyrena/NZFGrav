@@ -1,5 +1,5 @@
 # NZFGrav
-New Zealand National Flag, With N Body Gravity (A Drunk Craft Project)
+New Zealand Flag, With N Body Gravity (A Drunk Craft Project)
 
 
 # Todo
